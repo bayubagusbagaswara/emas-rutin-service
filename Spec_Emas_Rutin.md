@@ -339,7 +339,7 @@ lUK2YwLtfehZ0w-Gn6qc2uifsBDHgKKVCZvo4ansJ7RURB1ZY_avCEO6eaExcPhf-2RPE3HNAtz48My
 
 ```bash
 curl --request GET \
- --url 'http://10.0.118.39:5556/gw-autoemasapi/v1/inquiry/getHistoryTransactionByIdRegistration?idRegistration=15a2de5b-1dcc-4882-a90dddca8b04e0c8' \
+ --url 'http://10.0.118.39:5556/gw-autoemas/api/v1/inquiry/getHistoryTransactionByIdRegistration?idRegistration=15a2de5b-1dcc-4882-a90dddca8b04e0c8' \
  --header 'Authorization: Bearer 
 eyJraWQiOiJzc29zIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS0
 5MTIwYmY2MTQ0NzEiLCJhdWQiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS05MTIwYmY2MTQ
@@ -388,7 +388,7 @@ lUK2YwLtfehZ0w-Gn6qc2uifsBDHgKKVCZvo4ansJ7RURB1ZY_avCEO6eaExcPhf-2RPE3HNAtz48My
 
 ```bash
 curl --request GET \
- --url 'http://10.0.118.39:5556/gw-autoemasapi/v1/inquiry/getHistoryTransactionByRekeningEmas?rekeningEmas=' \
+ --url 'http://10.0.118.39:5556/gw-autoemas/api/v1/inquiry/getHistoryTransactionByRekeningEmas?rekeningEmas=' \
  --header 'Authorization: Bearer 
 eyJraWQiOiJzc29zIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS0
 5MTIwYmY2MTQ0NzEiLCJhdWQiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS05MTIwYmY2MTQ
@@ -438,7 +438,7 @@ lUK2YwLtfehZ0w-Gn6qc2uifsBDHgKKVCZvo4ansJ7RURB1ZY_avCEO6eaExcPhf-2RPE3HNAtz48My
 
 ```bash
 curl --request GET \
- --url 'http://10.0.118.39:5556/gw-autoemasapi/v1/inquiry/getAutoEmasPortofolio?rekeningEMas=7001305338' \
+ --url 'http://10.0.118.39:5556/gw-autoemas/api/v1/inquiry/getAutoEmasPortofolio?rekeningEMas=7001305338' \
  --header 'Authorization: Bearer 
 eyJraWQiOiJzc29zIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS0
 5MTIwYmY2MTQ0NzEiLCJhdWQiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS05MTIwYmY2MTQ
@@ -483,7 +483,7 @@ lUK2YwLtfehZ0w-Gn6qc2uifsBDHgKKVCZvo4ansJ7RURB1ZY_avCEO6eaExcPhf-2RPE3HNAtz48My
 
 ```bash
 curl --request GET \
- --url 'http://10.0.118.39:5556/gw-autoemasapi/v1/inquiry/getRegistrationData?idRegistration=15a2de5b-1dcc-4882-a90d-ddca8b04e0c8' \
+ --url 'http://10.0.118.39:5556/gw-autoemas/api/v1/inquiry/getRegistrationData?idRegistration=15a2de5b-1dcc-4882-a90d-ddca8b04e0c8' \
  --header 'Authorization: Bearer 
 eyJraWQiOiJzc29zIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS0
 5MTIwYmY2MTQ0NzEiLCJhdWQiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS05MTIwYmY2MTQ
