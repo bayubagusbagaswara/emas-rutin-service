@@ -218,7 +218,7 @@ lUK2YwLtfehZ0w-Gn6qc2uifsBDHgKKVCZvo4ansJ7RURB1ZY_avCEO6eaExcPhf-2RPE3HNAtz48My
 
 ```bash
 curl --request DELETE \
---url 'http://10.0.118.39:5556/gw-autoemasapi/v1/berhentiEmasTabunganOtomatis/?registrationId=f3964df9-1358-4a4b-9bdc6025c20b969c' \
+--url 'http://10.0.118.39:5556/gw-autoemas/api/v1/berhentiEmasTabunganOtomatis/?registrationId=f3964df9-1358-4a4b-9bdc6025c20b969c' \
 --header 'Authorization: Bearer 
 eyJraWQiOiJzc29zIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS0
 5MTIwYmY2MTQ0NzEiLCJhdWQiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS05MTIwYmY2MTQ
@@ -252,7 +252,7 @@ Berhasil berhentikan beli emas bagi hasil otomatis id : f3964df9-1358-4a4b-9bdc-
 
 ```bash
 curl --request DELETE \
---url 'http://10.0.118.39:5556/gw-autoemasapi/v1/berhentiEmasBagiHasilOtomatis/?registrationId=f3964df9-1358-4a4b-9bdc6025c20b969c' \
+--url 'http://10.0.118.39:5556/gw-autoemas/api/v1/berhentiEmasBagiHasilOtomatis/?registrationId=f3964df9-1358-4a4b-9bdc6025c20b969c' \
 --header 'Authorization: Bearer 
 eyJraWQiOiJzc29zIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS0
 5MTIwYmY2MTQ0NzEiLCJhdWQiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS05MTIwYmY2MTQ
@@ -286,7 +286,7 @@ Berhasil berhentikan beli emas bagi hasil otomatis id : f3964df9-1358-4a4b-9bdc-
 
 ```bash
 curl --request GET \
---url 'http://10.0.118.39:5556/gw-autoemasapi/v1/inquiry/getCifPortofolioForEmasBagiHasil?cif=7300584' \
+--url 'http://10.0.118.39:5556/gw-autoemas/api/v1/inquiry/getCifPortofolioForEmasBagiHasil?cif=7300584' \
 --header 'Authorization: Bearer 
 eyJraWQiOiJzc29zIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS0
 5MTIwYmY2MTQ0NzEiLCJhdWQiOiI1MjViM2E2MS04OTY4LTQ3OWQtOWE0NS05MTIwYmY2MTQ
